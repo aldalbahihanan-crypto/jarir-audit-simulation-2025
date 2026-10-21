@@ -315,5 +315,3 @@ The simulation cannot support a conclusion about Jarir's actual financial statem
 Project Author
 Educational accounting and external-audit portfolio project.
 Prepared using Excel working papers and a Word executive report.
-```text
-Create project README
